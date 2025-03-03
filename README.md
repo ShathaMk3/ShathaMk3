@@ -1,4 +1,4 @@
-بالطبع! إليك النسخة المعدلة:
+
 
 👋 Hi, I’m @ShathaMK3
 
@@ -46,7 +46,8 @@ I’m currently focusing on mobile development with Flutter and SwiftUI, and I�
 
 📫 Contact Me  
 - 📧 Email: shtalmalki@outlook.com 
-- 🔗 LinkedIn: [your profile]  
+- 🔗 LinkedIn: linkedin.com/in/shatha-almalki-a1b734296
+  
 
 ---
 
